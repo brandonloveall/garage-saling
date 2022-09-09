@@ -29,3 +29,5 @@ app.get("/c/*", (req, res) => {
 })
 
 //
+
+app.listen("3001")
